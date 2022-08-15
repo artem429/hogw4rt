@@ -1,0 +1,336 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    
+    }
+    
+    
+    .promo{
+    
+    background:url(/img/main_bg.png) center center;
+    width: 1920px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+    padding: 39px 0px 62px;
+
+}
+
+
+    .container{
+        width: 1140px;
+       margin: auto;
+       
+
+
+    }
+    
+
+     .logo{
+
+     display: block;
+     margin: auto;
+     
+
+
+     }
+
+
+
+      .logo_text{
+        color: #FFFFFF;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 24px;
+        /* identical to box height, or 160% */
+        
+        display: block;
+        align-items: center;
+        text-align: center;
+        text-transform: uppercase;
+        margin-top: 14px;
+
+
+     }
+
+     .tittle{
+        color: #F9BF3B;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 41px;
+        line-height: 41px;
+        /* identical to box height, or 100% */
+        
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: uppercase;
+        display: block;
+        margin-top: 20px;
+
+
+     }
+     
+     .big{
+        font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 80px;
+line-height: 80px;
+/* or 100% */
+
+display: block;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 10px;
+
+     }
+
+
+     .promo_text {
+        position: absolute;
+width: 1144px;
+height: 77px;
+left: 389px;
+top: 402px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 28px;
+/* or 133% */
+
+display: block;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+     }
+
+
+     .promo_text span{
+        font-family: 'Roboto';
+        font-weight: 700;
+        color:#F9BF3B;
+         
+
+
+     }
+
+
+     .promo_btn{
+        position: absolute;
+        width: 313px;
+        height: 72px;
+        left: 805px;
+        top: 551px;
+        display: block;
+        margin:auto;
+        background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+        box-shadow: inset 0 -5px rgba(0, 0, 0, 0.4);
+        color:white;
+     
+
+     }
+
+
+     .more{
+      
+
+}
+
+
+.more .more_text{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 100;
+   font-size: 15px;
+   
+   /* identical to box height, or 160% */
+   
+   display: block;
+   align-items: center;
+   text-align: justify;
+   text-transform: uppercase;
+   margin: auto;
+   text-align: center;
+   color: #FFFFFF;
+   margin-top: 350px;
+
+
+
+}
+    
+
+
+
+.more .more_img{
+   display: block;
+   margin: auto;
+margin-top: 10px;
+
+
+
+}
+
+
+
+.header{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 30px;
+   /* or 100% */
+   
+   display: block;
+   align-items: center;
+   text-align: center;
+   text-transform: uppercase;
+   color: #252525;
+text-align: center;
+
+
+
+}
+
+
+.subheader{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 23px;
+   line-height: 20px;
+   /* identical to box height, or 87% */
+   
+   display: block;
+   align-items: center;
+   text-align: center;
+   margin-top: 30px;
+   
+   color: #4A4A4A;
+
+}
+
+
+
+
+.waiting{
+height: 604px;
+background-color: #efefef;
+padding: 85px 0 75px 0;
+
+
+}
+
+.divider{
+   width: 220px;
+   height: 7px;
+   left: 851px;
+   top: 129px;
+   display: block;
+   margin: auto;
+   margin-top: 20px;
+   background: #F9BF3B;
+
+
+
+}
+
+
+.wrapper{
+margin-top: 45px;
+
+
+
+}
+
+
+.waiting .wrapper .item{
+width: 342px;
+text-align: center;
+display: inline-block;
+vertical-align: top;
+margin:0 15px;
+
+}
+
+
+.waiting .wrapper .item .img{
+
+   width: 100%;
+}
+
+.head{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 25px;
+   
+   /* identical to box height, or 100% */
+   
+   display: block;
+   text-transform: uppercase;
+   margin-left: 391px;
+   margin-top: 100px;
+   color: #299CBD;
+
+
+
+}
+
+.work .subtext{
+   margin-left: 391px;
+   font-family:'Roboto';
+   font-weight: 300px;
+   font-size: 17px;
+   line-height: 27px;
+   /* or 159% */
+   margin-top: 25px;
+   display: block;
+   align-items: center;
+   text-align: left;
+   
+   
+   color: #4A4A4A;
+
+}
+
+.work .subtext span{
+font-family: 'Roboto-Bold';
+font-weight: bolder;
+
+}
+
+
+.work .woman{
+   display: block;
+   top: 48px;
+   left: -240px;
+   z-index: -1;
+position: relative;
+margin-top: -500px;
+
+}
+
+.work{
+min-height: 50px
+padding:102px 0 107px 0;
+
+}
+
+.home{
+   width: 1920px;
+   height: 447px;
+   left: 1px;
+   top: 2px;
+
+}
